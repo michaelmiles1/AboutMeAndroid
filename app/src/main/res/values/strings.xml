@@ -2,4 +2,8 @@
     <string name="app_name">About Me</string>
     <string name="name">Michael Miles</string>
     <string name="yellow_star">yellow star</string>
+    <string name="bio">
+        My name is Michael. I\'m a mobile developer.
+        \nI\'m looking to get good at Android.
+    </string>
 </resources>
