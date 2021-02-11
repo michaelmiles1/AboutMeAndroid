@@ -4,6 +4,9 @@
     <string name="yellow_star">yellow star</string>
     <string name="bio">
         My name is Michael. I\'m a mobile developer.
-        \nI\'m looking to get good at Android.
+        \n\nI\'m looking to get good at Android.
+        \n\nNow I\'m testing Scroll Views.
     </string>
+    <string name="nickname_placeholder">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
